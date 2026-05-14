@@ -39,7 +39,7 @@ Competitor video: “Top AI Tools” – 200K views
 
 
 Here is the trend data:
-## (Insert Data)
+(Insert Data)
 "
 
 Optional Prompt:
